@@ -5,10 +5,14 @@
 //  Created by Claude De-Tchambila on 5/5/25.
 //
 
+#include "./LeetCode/315.CountSmallerSolution/315CountSmallerSolution.h"
 #include <iostream>
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+    std::cout << "Run tests" << "\n";
+
+    CountSmallerSolution solution;
+    solution.runTests();
+
     return 0;
 }
