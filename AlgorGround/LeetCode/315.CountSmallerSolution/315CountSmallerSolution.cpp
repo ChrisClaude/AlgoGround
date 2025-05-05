@@ -50,23 +50,23 @@ void CountSmallerSolution::runTests() {
         std::cout << "Test 1 failed" << "\n";
     }
 
-        // Test 2
-        std::vector<int> testData2 = {-1,-1};
-        std::vector<int> expectedResult2 = {0,0};
+    // Test 2
+    std::vector<int> testData2 = {-1,-1};
+    std::vector<int> expectedResult2 = {0,0};
 
-        if (countSmaller(testData2) == expectedResult2) {
-            std::cout << "Test 2 passed" << "\n";
-        } else {
-            std::cout << "Test 2 failed" << "\n";
-        }
+    if (countSmaller(testData2) == expectedResult2) {
+        std::cout << "Test 2 passed" << "\n";
+    } else {
+        std::cout << "Test 2 failed" << "\n";
+    }
 
-        // Test 3
-        std::vector<int> testData3 = {-1,-1};
-        std::vector<int> expectedResult3 = {0,0};
+    // Test 3
+    std::vector<int> testData3 = {-1,-1};
+    std::vector<int> expectedResult3 = {0,0};
 
-        if (countSmaller(testData3) == expectedResult3) {
-            std::cout << "Test 3 passed" << "\n";
-        } else {
-            std::cout << "Test 3 failed" << "\n";
-        }
+    if (countSmaller(testData3) == expectedResult3) {
+        std::cout << "Test 3 passed" << "\n";
+    } else {
+        std::cout << "Test 3 failed" << "\n";
+    }
 }
