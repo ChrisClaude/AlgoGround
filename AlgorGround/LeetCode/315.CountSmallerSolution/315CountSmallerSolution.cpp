@@ -27,7 +27,7 @@ void CountSmallerSolution::mergeSort(std::vector<std::pair<int, int>>& nums, int
 }
 
 std::vector<int> CountSmallerSolution::countSmaller(std::vector<int>& nums) {
-    int n = nums.size();
+    int n = int(nums.size());
     std::vector<int> result(n, 0);
     std::vector<std::pair<int, int>> indexedNums;
     for (int i = 0; i < n; i++)
