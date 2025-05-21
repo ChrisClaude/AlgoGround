@@ -9,7 +9,9 @@
 
 //#include "./LeetCode/106.ConstructBinaryTree/ConstructBinaryTree.hpp"
 
-#include "./LeetCode/AmazonMinimChaptersPerDay/MinDaysToReadBook.hpp"
+//#include "./LeetCode/AmazonMinimChaptersPerDay/MinDaysToReadBook.hpp"
+
+#include "./LeetCode/2134.MinimimSwaps/MinimumSwaps.hpp"
 
 #include <iostream>
 
@@ -22,7 +24,7 @@ int main(int argc, const char * argv[]) {
 //    ConstructBinaryTree solution;
 //    solution.runTests();
 
-    MinDaysToReadBookSolution solution;
+    MinimumSwaps solution;
     solution.runTests();
 
 

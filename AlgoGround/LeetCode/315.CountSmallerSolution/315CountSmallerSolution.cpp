@@ -7,7 +7,6 @@
 
 #include "315CountSmallerSolution.h"
 #include <iostream>
-#include <Algoithm>
 
 void CountSmallerSolution::mergeSort(std::vector<std::pair<int, int>>& nums, int left, int right, std::vector<int>& result) {
     if (right - left <= 1) return;
