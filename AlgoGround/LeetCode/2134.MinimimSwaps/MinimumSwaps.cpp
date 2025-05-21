@@ -22,7 +22,7 @@ int MinimumSwaps::minSwaps(std::vector<int> &nums) {
             onesCount -= nums[start - 1];
         }
         
-        while (end - start - 1 < totalOnes) {
+        while (end - start + 1 < totalOnes) {
             end++;
             onesCount += nums[end % n];
         }
@@ -38,17 +38,17 @@ void MinimumSwaps::runTests() {
     std::vector<int> data1 = {0,1,0,1,1,0,0};
     assert(MinimumSwaps::minSwaps(data1) == 1);
     
-    std::cout << "test 1 passed";
+    std::cout << "test 1 passed" << "\n";
     
     // Test 2
     std::vector<int> data2 = {0,1,1,1,0,0,1,1,0};
     assert(MinimumSwaps::minSwaps(data2) == 2);
     
-    std::cout << "test 2 passed";
+    std::cout << "test 2 passed" << "\n";
     
     // Test 3
     std::vector<int> data3 = {1,1,0,0,1};
-    assert(MinimumSwaps::minSwaps(data3) == 2);
+    assert(MinimumSwaps::minSwaps(data3) == 0);
     
-    std::cout << "test 3 passed";
+    std::cout << "test 3 passed" << "\n";
 }
