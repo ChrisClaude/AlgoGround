@@ -1,6 +1,6 @@
 //
 //  315CountSmallerSolution.h
-//  AlgorGround
+//  AlgoGround
 //
 //  Created by Claude De-Tchambila on 5/5/25.
 //

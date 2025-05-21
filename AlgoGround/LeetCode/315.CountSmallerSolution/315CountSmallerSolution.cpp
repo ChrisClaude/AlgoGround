@@ -1,13 +1,13 @@
 //
 //  315CountSmallerSolution.cpp
-//  AlgorGround
+//  AlgoGround
 //
 //  Created by Claude De-Tchambila on 5/5/25.
 //
 
 #include "315CountSmallerSolution.h"
 #include <iostream>
-#include <algorithm>
+#include <Algoithm>
 
 void CountSmallerSolution::mergeSort(std::vector<std::pair<int, int>>& nums, int left, int right, std::vector<int>& result) {
     if (right - left <= 1) return;

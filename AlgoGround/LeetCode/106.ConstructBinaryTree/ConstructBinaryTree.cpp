@@ -1,6 +1,6 @@
 //
 //  ConstructBinaryTree.cpp
-//  AlgorGround
+//  AlgoGround
 //
 //  Created by Claude De-Tchambila on 5/16/25.
 //

@@ -19,13 +19,13 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		B5BBE5092DC8E1AD00CC9022 /* AlgorGround */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AlgorGround; sourceTree = BUILT_PRODUCTS_DIR; };
+		B5BBE5092DC8E1AD00CC9022 /* AlgoGround */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AlgoGround; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		B5BBE50B2DC8E1AD00CC9022 /* AlgorGround */ = {
+		B5BBE50B2DC8E1AD00CC9022 /* AlgoGround */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = AlgorGround;
+			path = AlgoGround;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -44,7 +44,7 @@
 		B5BBE5002DC8E1AD00CC9022 = {
 			isa = PBXGroup;
 			children = (
-				B5BBE50B2DC8E1AD00CC9022 /* AlgorGround */,
+				B5BBE50B2DC8E1AD00CC9022 /* AlgoGround */,
 				B5BBE50A2DC8E1AD00CC9022 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -52,7 +52,7 @@
 		B5BBE50A2DC8E1AD00CC9022 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B5BBE5092DC8E1AD00CC9022 /* AlgorGround */,
+				B5BBE5092DC8E1AD00CC9022 /* AlgoGround */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -60,9 +60,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B5BBE5082DC8E1AD00CC9022 /* AlgorGround */ = {
+		B5BBE5082DC8E1AD00CC9022 /* AlgoGround */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B5BBE5102DC8E1AD00CC9022 /* Build configuration list for PBXNativeTarget "AlgorGround" */;
+			buildConfigurationList = B5BBE5102DC8E1AD00CC9022 /* Build configuration list for PBXNativeTarget "AlgoGround" */;
 			buildPhases = (
 				B5BBE5052DC8E1AD00CC9022 /* Sources */,
 				B5BBE5062DC8E1AD00CC9022 /* Frameworks */,
@@ -73,13 +73,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				B5BBE50B2DC8E1AD00CC9022 /* AlgorGround */,
+				B5BBE50B2DC8E1AD00CC9022 /* AlgoGround */,
 			);
-			name = AlgorGround;
+			name = AlgoGround;
 			packageProductDependencies = (
 			);
-			productName = AlgorGround;
-			productReference = B5BBE5092DC8E1AD00CC9022 /* AlgorGround */;
+			productName = AlgoGround;
+			productReference = B5BBE5092DC8E1AD00CC9022 /* AlgoGround */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -96,7 +96,7 @@
 					};
 				};
 			};
-			buildConfigurationList = B5BBE5042DC8E1AD00CC9022 /* Build configuration list for PBXProject "AlgorGround" */;
+			buildConfigurationList = B5BBE5042DC8E1AD00CC9022 /* Build configuration list for PBXProject "AlgoGround" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -110,7 +110,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B5BBE5082DC8E1AD00CC9022 /* AlgorGround */,
+				B5BBE5082DC8E1AD00CC9022 /* AlgoGround */,
 			);
 		};
 /* End PBXProject section */
@@ -260,7 +260,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B5BBE5042DC8E1AD00CC9022 /* Build configuration list for PBXProject "AlgorGround" */ = {
+		B5BBE5042DC8E1AD00CC9022 /* Build configuration list for PBXProject "AlgoGround" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B5BBE50E2DC8E1AD00CC9022 /* Debug */,
@@ -269,7 +269,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B5BBE5102DC8E1AD00CC9022 /* Build configuration list for PBXNativeTarget "AlgorGround" */ = {
+		B5BBE5102DC8E1AD00CC9022 /* Build configuration list for PBXNativeTarget "AlgoGround" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B5BBE5112DC8E1AD00CC9022 /* Debug */,

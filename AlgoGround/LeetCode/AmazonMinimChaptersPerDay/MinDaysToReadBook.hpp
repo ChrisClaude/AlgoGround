@@ -1,6 +1,6 @@
 //
 //  MinDaysToReadBook.hpp
-//  AlgorGround
+//  AlgoGround
 //
 //  Created by Claude De-Tchambila on 5/18/25.
 //

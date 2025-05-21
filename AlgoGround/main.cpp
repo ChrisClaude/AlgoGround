@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  AlgorGround
+//  AlgoGround
 //
 //  Created by Claude De-Tchambila on 5/5/25.
 //
@@ -18,13 +18,13 @@ int main(int argc, const char * argv[]) {
 
 //    CountSmallerSolution solution;
 //    solution.runTests();
-    
+
 //    ConstructBinaryTree solution;
 //    solution.runTests();
-    
+
     MinDaysToReadBookSolution solution;
     solution.runTests();
-    
+
 
     return 0;
 }
